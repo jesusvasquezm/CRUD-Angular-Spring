@@ -5,3 +5,6 @@ Angular CLI: 15.0.5
 Node: 18.13.0
 Package Manager: npm 9.2.0
 OS: win32 x64
+
+Installed:
+Angular Material
